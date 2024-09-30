@@ -17,6 +17,7 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-%239B4993?style=for-the-badge&logo=dotnet&logoColor=%239B4993&labelColor=black">
   <img alt="F#" src="https://img.shields.io/badge/F%23-%23378BBA?style=for-the-badge&logo=fsharp&logoColor=%23378BBA&labelColor=black">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23F89820?style=for-the-badge&logo=openjdk&logoColor=%23F89820&labelColor=black">
 </div>
 
 ---
